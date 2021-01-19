@@ -1,0 +1,12 @@
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: aqua;
+    border-color: aqua;
+}
+th{
+    font-weight: 800;
+    background-color: aqua;
+    color: #ffffff
+}
